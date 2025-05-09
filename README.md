@@ -42,7 +42,7 @@ A full-featured **Car Rental Web Application** that allows users to book and ren
    cd car-rental-app
 
 2. Navigate Root Directory:
-cd CENTAL-CARRENTAL
-npm install
-npm run dev
+- cd CENTAL-CARRENTAL
+- npm install
+- npm run dev
 
